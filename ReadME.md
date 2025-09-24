@@ -13,3 +13,6 @@ This project was completed fully in Excel. The entire workflow (raw data, cleani
  
     ## Tools Used
     - Microsoft Excel (Power Query, Pivot Tables, Charts, Dashboarding)
+
+        ## Dasboard Preview
+      ![Daily Basket Sales Performance](https://github.com/user-attachments/assets/396a01a8-b6a0-4de5-be60-20c4c3d0f6f1)
