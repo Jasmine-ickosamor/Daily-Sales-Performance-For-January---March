@@ -49,7 +49,7 @@ Consider slightly raising the prices for well performing products.
 
 - Educate customers on the ease and speed of digital payments
 
-# DAILY BASKET SALES PERFORMANCE FOR JANUARY TO MARCH (EXCEL PROJECT)
+
 This project was completed fully in Excel. The entire workflow (raw data, cleaning, dashboard, insights and recommendations) is contained in **one Excel file**
 
 ## FILE CONTENTS
@@ -57,10 +57,6 @@ This project was completed fully in Excel. The entire workflow (raw data, cleani
 - **Clenaed Data**: Processed version of the dataset used for analysis.
 - **Dashboard**: Non-interactive Excel dashboard with charts and KPIs.
 - **Observations and Recommendations**: Documented insights and business recommendations written in the same file.
-
-  ## Key Insights
-  - Sales dipped in February but improved again in March.
-  - Naypyitaw was the top city in revenue generation.
  
     ## Tools Used
     - Microsoft Excel (Power Query, Pivot Tables, Charts, Dashboarding)
