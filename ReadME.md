@@ -1,3 +1,7 @@
+## Dashboard Preview
+![Daily Basket Sales Performance](https://github.com/user-attachments/assets/61fccb29-940e-4730-a82d-6ecf2c225990)
+
+
 # DAILY BASKET SALES PERFORMANCE FOR JANUARY TO MARCH (EXCEL PROJECT)
 This project was completed fully in Excel. The entire workflow (raw data, cleaning, dashboard, insights and recommendations) is contained in **one Excel file**
 
@@ -14,5 +18,4 @@ This project was completed fully in Excel. The entire workflow (raw data, cleani
     ## Tools Used
     - Microsoft Excel (Power Query, Pivot Tables, Charts, Dashboarding)
 
-        ## Dasboard Preview
-      ![Daily Basket Sales Performance](https://github.com/user-attachments/assets/396a01a8-b6a0-4de5-be60-20c4c3d0f6f1)
+  
